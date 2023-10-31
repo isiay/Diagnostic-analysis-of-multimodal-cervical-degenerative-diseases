@@ -10,7 +10,6 @@ The code trains models for classifying intervertebral disc degeneration and spin
 
 ### utils_cgw.py(to save training logs and other information)
 
-### MR_disic_pth(to save the parameters of the trained model)
 
 
 
